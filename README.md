@@ -1,2 +1,2 @@
 # Southern-New-England-Topology
-Southern New England imagined as a network
+Southern New England constructed as a network
